@@ -11,7 +11,7 @@
 
 ## [Vivado HL WebPACK Edition](https://www.xilinx.com/products/design-tools/vivado/vivado-webpack.html)
 - ### FREE version of the revolutionary design suite. 
-- ### 지원하는 device의 제한과 DSP지원이 안되는 제약이 있지만, 대다수의 기능을 지원하고 있어 DHL의 기본을 공부하는데 있어 충분히 훌륭한 무료 툴이다.
+- ### 지원하는 device의 제한과 DSP지원이 안되는 제약이 있지만, 대다수의 기능을 지원하고 있어 HDL의 기본을 공부하는데 있어 충분히 훌륭한 툴이다.
 - ### vivado 2018.3: [Download link](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2018-3.html)
 
 
